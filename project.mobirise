@@ -1562,7 +1562,7 @@
           "title": "SLIK SENDER DU PENGER TIL HELPERS",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Penger mottas på VIPPS til Terje Christensen. Telefon nr 90056958</p><p>Listen under vil oppdateres når det kommer melding fra VIPPS om at pengene er mottatt.<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Lese mer om Salam kitchen project</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Om Salam kitchen project</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Om Salam LADC</a>"
         },
         {
           "_styles": {

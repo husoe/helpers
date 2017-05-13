@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "bidrag.html",
+    "currentPage": "salamkitchen.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1007,7 +1007,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": true,
@@ -1032,6 +1032,19 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-18",
+          "text": "<p><b>Nå kan du hjelpe flyktningene fra Syria</b></p><p>Sett teltleirene i Bekaadalen i Libanon, noen kilometer fra grensen til Syria?</p><p>Det er mange frivillige som hjelper flyktningene. De gjør det med lidenskap, betaler reisen hit, maten de spiser og for sengen de sover i.</p><p><br></p><p><b>Vi hjelper de som hjelper</b></p><p>De frivillige er ute i teltleirene, deler ut mat, underviser barn, gir mødrene helseråd.</p><p>For at de som hjelper skal være opplagt og kunne gi hjelp og medmenneskelighet, er det nødvendig at de får hvile og mat selv.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_tags": [
@@ -1049,8 +1062,8 @@
                 "title": "TOR",
                 "showText": true,
                 "text": "Lettere oppgitt over kjøkkenkroken",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a> "
               },
               {
                 "active": false,
@@ -1060,30 +1073,30 @@
                 "title": "Kjøkkenkroken",
                 "showText": true,
                 "text": "Her skal 20 personer lage mat og vaske opp.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/kitchen3-2000x1500.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "FULLT MED 3",
                 "showText": true,
                 "text": "Blir fort fullt i kjøkkenkroken",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/kitchen4-2000x1500.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "KOKING",
                 "showText": true,
                 "text": "Gassovnen har 4 plater",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a> "
               }
             ],
             "showBullets": true

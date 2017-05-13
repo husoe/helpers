@@ -165,6 +165,18 @@
 #msg-box4-14 .mbr-article {
   color: #ffffff;
 }
+#msg-box5-19 .mbr-header__text {
+  color: #000000;
+}
+#msg-box5-19 .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box5-19 .mbr-article {
+  color: #000000;
+}
+#msg-box5-19 .mbr-article P {
+  color: #000000;
+}
 #msg-box3-13 .mbr-header .mbr-header__text {
   text-align: center;
 }

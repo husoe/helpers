@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "salamkitchen.html",
+    "currentPage": "bidrag.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1579,6 +1579,73 @@
         },
         {
           "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-19",
+          "_params": {
+            "imageSize": "28",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kitchen2-1400x1050-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "SALAM KITCHEN PROJECT",
+          "meta": "&nbsp;April 17, 2017",
+          "text": "Nytt kjøkken til de frivillige. Det er frivillige fra mange nasjoner som hjelper de syriske flyktningene i Bekaa dalen, Libanon. De bor selv i dårlige forhold og 20 personer deler en kjøkkenkrok som ikke egner seg til å lage mat. Helpers.no har tatt på seg oppgaven med å få på plass et kjøkken som er mulig å holde rent.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Salam kitchen project</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a> "
+        },
+        {
+          "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
             },
@@ -1601,7 +1668,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1613,7 +1680,7 @@
             "showMeta": false,
             "darkBackground": false
           },
-          "title": "Mottatt til nå",
+          "title": "Salam Kitchen Project innbetalinger",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>//INSERTSCRIPT//<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"

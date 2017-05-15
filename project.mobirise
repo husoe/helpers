@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "prosjekter.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -511,7 +511,7 @@
             "darkBackground": false
           },
           "title": "Konkrete prosjekter",
-          "meta": "Doers - not talkers.",
+          "meta": "Doers - Not talkers.",
           "text": "<p>Helpers.no er en frivillig, non-profit, organisasjon som har som mål å hjelpe de som konkret hjelper andre.&nbsp;</p><p>Vi hjelper på flere måter. Det kan være økonomisk, koble inn ekspertise, &nbsp;nå nøkkelpersoner ++. <br>Vi organiserer hjelpen vi gir som et prosjekt. Prosjektene har forskjellige deltakere avhengig av oppgaven som skal løses. Prosjektene har et klart definert mål.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"prosjekter.html\" data-toolbar=\"-mbrBtnMove\">Prosjekter</a>"
         },
@@ -1216,7 +1216,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x6004.png",
+              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x6006.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1240,7 +1240,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x6005.png",
+              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x6007.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",

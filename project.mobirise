@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "index.html",
+    "currentPage": "bidrag.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -753,8 +753,8 @@
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "showButtons": true
           },
           "logo": {
@@ -979,8 +979,8 @@
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "showButtons": true
           },
           "logo": {
@@ -1156,8 +1156,8 @@
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "showButtons": true
           },
           "logo": {
@@ -1216,7 +1216,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x6000.png",
+              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x6002.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1240,7 +1240,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x6001.png",
+              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x6003.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1427,8 +1427,8 @@
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "showButtons": true
           },
           "logo": {
@@ -1764,6 +1764,31 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Om Salam kitchen project</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Om Salam LADC</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": false,
+            "twitter": true
+          },
+          "text": "Hjelp oss å nå flere som kan hjelpe. Del websiden"
+        },
+        {
           "_styles": {
             ".mbr-header__text": {
               "color": "#000000"
@@ -1803,7 +1828,7 @@
             "showTitle": true,
             "showMeta": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1828,7 +1853,7 @@
           "title": "SALAM KITCHEN PROJECT",
           "meta": "&nbsp;April 17, 2017",
           "text": "Nytt kjøkken til de frivillige. Det er frivillige fra mange nasjoner som hjelper de syriske flyktningene i Bekaa dalen, Libanon. De bor selv i dårlige forhold og 20 personer deler en kjøkkenkrok som ikke egner seg til å lage mat. Helpers.no har tatt på seg oppgaven med å få på plass et kjøkken som er mulig å holde rent.&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Salam kitchen project</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag</a> "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"salamkitchen.html\" data-toolbar=\"-mbrBtnMove\">Om Salam kitchen project</a>  "
         },
         {
           "_styles": {
@@ -1948,8 +1973,8 @@
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "showButtons": true
           },
           "logo": {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -109,7 +109,7 @@
           },
           "title": "Helping the helpers",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag til Salam Kitchen prosjektet</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"bidrag.html\" data-toolbar=\"-mbrBtnMove\">Gi ditt bidrag til Salam Kitchen prosjektet</a> "
         },
         {
           "_styles": {
@@ -1216,7 +1216,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x6006.png",
+              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x6008.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1240,7 +1240,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x6007.png",
+              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x6009.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",

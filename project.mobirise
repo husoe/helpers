@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "bidrag.html",
+    "currentPage": "salamkitchen.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -537,7 +537,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showHeader": true,
-            "showSubheader": false,
+            "showSubheader": true,
             "columns": 4,
             "showImages": true,
             "showTitles": true,
@@ -545,8 +545,8 @@
             "showButtons": false
           },
           "headerAlign": "left",
-          "header": "ORGANIZERS",
-          "subheader": "By John Smith posted July 30, 2015",
+          "header": "ORGANIZERS : helpers.no",
+          "subheader": "Vi organiserer støtten vi gir som prosjekter - her er core team.",
           "media1": {
             "image": {
               "active": true,
@@ -598,9 +598,13 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/torhode-600x600.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -632,8 +636,8 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "Har du engasjement?",
+          "caption4": "Tid å engasjement til å delta i helpers ?<br>Ta kontakt med oss.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1204,7 +1208,7 @@
             "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "5",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
@@ -1216,7 +1220,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x60010.png",
+              "src": "@PROJECT_PATH@/assets/images/terjechristensen-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1240,7 +1244,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x60011.png",
+              "src": "@PROJECT_PATH@/assets/images/terjesaeterbo-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1264,9 +1268,13 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/torhode-600x600.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1279,7 +1287,7 @@
             }
           },
           "title3": "Tor Bach",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Tor er generalsekretær i friluftsorganisasjonen Wild X. Har fortid som journalist, har reist rundt i store deler av Asia, Midtøsten og Europa og har jobbet som flyktningehjelper både i Oslo og i Bekaadalen.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1304,9 +1312,13 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/torbjorn-600x600.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1324,9 +1336,13 @@
           "media6": {
             "image": {
               "active": true,
-              "src": "images/host.png",
+              "src": "@PROJECT_PATH@/assets/images/mona-600x600.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1338,8 +1354,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "Mona Bevum",
+          "caption6": "Mona har alltid vært opptatt av rettferdighet. Var veldig aktiv mot atomvåpen  på 70/80 tallet.&nbsp;<br>Var med Mange Bekker Små til Libanon i jan. -16 og &nbsp;vært i Bekaa med Salam ca 2 uker. Har sterkt ønske om å bidra.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helpers",
-    "currentPage": "salamkitchen.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -617,7 +617,7 @@
             }
           },
           "title3": "Tor Bach",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Tor er generalsekretær i friluftsorganisasjonen Wild X. Har fortid som journalist, har reist rundt i store deler av Asia, Midtøsten og Europa og har jobbet som flyktningehjelper både i Oslo og i Bekaadalen.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {

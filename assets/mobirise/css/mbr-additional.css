@@ -195,3 +195,30 @@
 #ext_menu-10 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-1d .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1d .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content5-1m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}
+#content5-1m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1m .mbr-article {
+  color: #fff;
+}
+#content1-1h P {
+  text-align: left;
+}
